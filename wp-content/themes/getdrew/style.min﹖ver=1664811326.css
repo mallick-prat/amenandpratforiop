@@ -1,4 +1,4 @@
-:root{--success:#588f5b;--warn:#c2544d;--midnight:#170732;--dark:#250e4b;--violet:#3b078e;--purple:#58058b;--corn:#bedbfa;--lav:#cacaff;--lav-30:rgba(202,202,255,0.3);--helio:#e6c3ff;--peach:#ffc7b6;--leaf:#caecbd;--cream:#fffcf3;--liberty:#5c5cb2;--lav2:#eae8f9;--p-blue:#21217c;--gray:#919192}
+:root{--success:#588f5b;--warn:#c2544d;--midnight:#170732;--dark:#026C80;--violet:#3b078e;--purple:#58058b;--corn:#bedbfa;--lav:#cacaff;--lav-30:rgba(202,202,255,0.3);--helio:#e6c3ff;--peach:#ffc7b6;--leaf:#caecbd;--cream:#fffcf3;--liberty:#5c5cb2;--lav2:#eae8f9;--p-blue:#21217c;--gray:#919192}
 .c_midnight{color:var(--midnight)}
 .c-bg_midnight{background:var(--midnight)}
 .has-midnight-color{color:var(--midnight)}
