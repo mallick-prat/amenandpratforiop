@@ -3914,7 +3914,7 @@
 }
  .wpc h1,.wpc h2,.wpc h3,.wpc h4,.wpc h5,.wpc h6{
     font-family:var(--display);
-    font-weight:500;
+    font-weight:400;
     line-height:1.1;
     letter-spacing:-0.02em;
     margin-top:0
@@ -9005,7 +9005,14 @@
     padding-right:33px;
     font-size:clamp(1.424rem,3vw,2.566rem) !important
 }
- .gd-highlight .gd__po-title{
+
+.gd__po-title_sub{
+    font-weight:400;
+    position:relative;
+    padding-right:33px;
+    font-size:clamp(1.424rem,3vw,2.566rem) !important
+}
+.gd-highlight .gd__po-title{
     font-size:clamp(1.266rem,3vw,2.027rem) !important
 }
  .single-policy .gd__po-title{
@@ -25260,6 +25267,13 @@
         height:15px;
         top:7px;
         right:-26px
+    }
+
+    .center{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
     }
      .give{
         grid-template-rows:96px auto 40px
